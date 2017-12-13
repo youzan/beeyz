@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="UI automtion" parallel="classes" thread-count="1">
+    <listeners>
+        <listener class-name="com.youzan.opentest.ui.listeners.CaseListener" />
+        <listener class-name="com.youzan.opentest.ui.listeners.RetryListener" />
+    </listeners>
+    <usedefaultlisteners name="false" />
+
+    <test name="ump">
+        <classes>
+            <class name="com.youzan.opentest.ui.testcase.demo.PassDemoTest"/>
+            <class name="com.youzan.opentest.ui.testcase.demo.FailDemoTest"/>
+        </classes>
+    </test>
+</suite>

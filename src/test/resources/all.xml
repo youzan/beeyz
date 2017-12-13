@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI-automation">
+    <listeners>
+        <listener class-name="com.youzan.opentest.ui.listeners.CaseListener" />
+        <listener class-name="com.youzan.opentest.ui.listeners.RetryListener" />
+    </listeners>
+    <suite-files>
+        <suite-file path="demo.xml"/>
+    </suite-files>
+</suite>
