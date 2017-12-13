@@ -2,9 +2,9 @@
 <a href="https://github.com/youzan/"><img alt="有赞logo" width="36px" src="https://img.yzcdn.cn/public_files/2017/02/09/e84aa8cbbf7852688c86218c1f3bbf17.png" alt="youzan">
 </p></a>
 <p align="center">
-    <img src="http://gitlab.qima-inc.com/qa/UIAutomation/raw/hotfix/output/src/main/resources/img/bee-project.png?raw=true" alt="bee logo" srcset="http://gitlab.qima-inc.com/qa/UIAutomation/raw/hotfix/output/src/main/resources/img/bee-project.png?raw=true 1x, 
-    http://gitlab.qima-inc.com/qa/UIAutomation/raw/hotfix/output/src/main/resources/img/bee-project.png?raw=true 2x, 
-    http://gitlab.qima-inc.com/qa/UIAutomation/raw/hotfix/output/src/main/resources/img/bee-project.png?raw=true" width="210" height="210"">
+    <img src="https://github.com/youzan/beeyz/blob/master/src/main/resources/img/bee-project.png?raw=true" alt="bee logo" srcset="https://github.com/youzan/beeyz/blob/master/src/main/resources/img/bee-project.png?raw=true 1x, 
+    https://github.com/youzan/beeyz/blob/master/src/main/resources/img/bee-project.png?raw=true 2x, 
+    https://github.com/youzan/beeyz/blob/master/src/main/resources/img/bee-project.png?raw=true" width="210" height="210"">
 </p>
 <p align="center">Bee是由有赞QA开发的UI自动化工具，并以此实现了web端&wap端的核心业务的自动化。</p>
  
